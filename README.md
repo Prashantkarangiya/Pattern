@@ -1,0 +1,2 @@
+# Pattern
+ nested loops
